@@ -22,4 +22,9 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
+   <scm>
+	<connection>scm:git@github.com:team172011/mvn-test-repo.git</connection>
+	<url>scm:git:git@github.com:team172011/mvn-test-repo.git</url>
+	<developerConnection>scm:git:git@github.com:team172011/mvn-test-repo.git</developerConnection>
+  </scm>
 </project>
